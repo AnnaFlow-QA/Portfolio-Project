@@ -1,0 +1,550 @@
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+1666296296157	geckodriver	INFO	Listening on 127.0.0.1:58927
+1666296296510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58928" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofilegOiLwE"
+1666296297108	Marionette	INFO	Marionette enabled
+1666296297151	Marionette	INFO	Listening on port 58941
+2022-10-20 16:04:57.168 plugin-container[51831:5252633] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 16:04:57.168 plugin-container[51831:5252633] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 58941
+2022-10-20 16:04:57.333 plugin-container[51831:5252633] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 16:04:57.333 plugin-container[51831:5252633] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-20 16:04:57.333 plugin-container[51831:5252640] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 16:04:57.333 plugin-container[51831:5252640] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:58928
+1666296297565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofilegOiLwE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58928/devtools/browser/7521397f-50f3-4cb8-acb0-1cf2a9580233
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666296300526	Marionette	INFO	Stopped listening on port 58941
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+Invalid port. Exiting...
+1666715083504	geckodriver	INFO	Listening on 127.0.0.1:62798
+1666715083849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62799" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileqq9T3j"
+1666715084554	Marionette	INFO	Marionette enabled
+1666715084618	Marionette	INFO	Listening on port 62812
+Read port: 62812
+2022-10-25 12:24:44.808 plugin-container[99562:6601632] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:24:44.808 plugin-container[99562:6601632] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:24:45.009 plugin-container[99562:6601632] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:24:45.009 plugin-container[99562:6601632] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:24:45.010 plugin-container[99562:6601703] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:24:45.010 plugin-container[99562:6601703] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:62799
+1666715085088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileqq9T3j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62799/devtools/browser/b52411d3-05f3-45aa-afe1-15b5ad54d0db
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666715088000	Marionette	INFO	Stopped listening on port 62812
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+Invalid port. Exiting...
+1666715098833	geckodriver	INFO	Listening on 127.0.0.1:62929
+1666715099214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62930" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofilewHg7SI"
+1666715099750	Marionette	INFO	Marionette enabled
+2022-10-25 12:24:59.751 plugin-container[99608:6602409] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:24:59.751 plugin-container[99608:6602409] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:24:59.756 plugin-container[99608:6602409] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:24:59.756 plugin-container[99608:6602409] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:24:59.756 plugin-container[99608:6602437] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:24:59.756 plugin-container[99608:6602437] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715099784	Marionette	INFO	Listening on port 62943
+Read port: 62943
+WebDriver BiDi listening on ws://127.0.0.1:62930
+1666715100201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofilewHg7SI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62930/devtools/browser/0d17d850-4cae-4d5b-8f3e-f2c981a9dfc2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666715102975	Marionette	INFO	Stopped listening on port 62943
+Invalid port. Exiting...
+1666715237076	geckodriver	INFO	Listening on 127.0.0.1:63816
+1666715237458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63817" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileOHe0ZX"
+1666715238071	Marionette	INFO	Marionette enabled
+2022-10-25 12:27:18.092 plugin-container[99729:6604350] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:27:18.093 plugin-container[99729:6604350] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:27:18.097 plugin-container[99729:6604350] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:27:18.097 plugin-container[99729:6604350] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:27:18.097 plugin-container[99729:6604347] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:27:18.097 plugin-container[99729:6604347] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715238114	Marionette	INFO	Listening on port 63831
+Read port: 63831
+WebDriver BiDi listening on ws://127.0.0.1:63817
+1666715238603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileOHe0ZX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63817/devtools/browser/11f716b3-03ea-4b25-b16a-c1aec17c130f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666715241387	Marionette	INFO	Stopped listening on port 63831
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+Invalid port. Exiting...
+1666715294411	geckodriver	INFO	Listening on 127.0.0.1:64204
+1666715294791	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64205" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofilemYEE8Y"
+1666715295332	Marionette	INFO	Marionette enabled
+2022-10-25 12:28:15.333 plugin-container[99796:6605914] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:28:15.334 plugin-container[99796:6605914] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:28:15.337 plugin-container[99796:6605914] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:28:15.338 plugin-container[99796:6605914] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:28:15.338 plugin-container[99796:6605939] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:28:15.338 plugin-container[99796:6605939] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715295369	Marionette	INFO	Listening on port 64220
+Read port: 64220
+WebDriver BiDi listening on ws://127.0.0.1:64205
+1666715295790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofilemYEE8Y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64205/devtools/browser/5770f91d-8d7c-42fa-9562-913b9f1dac13
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666715298427	Marionette	INFO	Stopped listening on port 64220
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+Invalid port. Exiting...
+1666715326728	geckodriver	INFO	Listening on 127.0.0.1:64446
+1666715327114	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64447" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofile2nxXY3"
+2022-10-25 12:28:47.669 plugin-container[99851:6607041] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:28:47.670 plugin-container[99851:6607041] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715327671	Marionette	INFO	Marionette enabled
+2022-10-25 12:28:47.675 plugin-container[99851:6607041] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:28:47.675 plugin-container[99851:6607041] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:28:47.675 plugin-container[99851:6607039] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:28:47.675 plugin-container[99851:6607039] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715327714	Marionette	INFO	Listening on port 64460
+Read port: 64460
+WebDriver BiDi listening on ws://127.0.0.1:64447
+1666715328199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofile2nxXY3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64447/devtools/browser/ea47bd9b-f57b-42c3-b121-b2dc3a6641d4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666715330975	Marionette	INFO	Stopped listening on port 64460
+Invalid port. Exiting...
+1666715351068	geckodriver	INFO	Listening on 127.0.0.1:64634
+1666715351474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64635" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileKS1rpH"
+2022-10-25 12:29:12.004 plugin-container[99903:6608091] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:29:12.004 plugin-container[99903:6608091] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715352007	Marionette	INFO	Marionette enabled
+2022-10-25 12:29:12.008 plugin-container[99903:6608091] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:29:12.008 plugin-container[99903:6608091] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:29:12.009 plugin-container[99903:6608093] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:29:12.009 plugin-container[99903:6608093] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715352042	Marionette	INFO	Listening on port 64648
+Read port: 64648
+WebDriver BiDi listening on ws://127.0.0.1:64635
+1666715352448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileKS1rpH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64635/devtools/browser/6b64b3fd-81f9-49dd-9201-6cd2fea8f988
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666715355217	Marionette	INFO	Stopped listening on port 64648
+Invalid port. Exiting...
+1666715459018	geckodriver	INFO	Listening on 127.0.0.1:49192
+1666715459388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49193" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofilejY9Qcq"
+2022-10-25 12:30:59.913 plugin-container[216:6611591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:30:59.913 plugin-container[216:6611591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715459915	Marionette	INFO	Marionette enabled
+2022-10-25 12:30:59.917 plugin-container[216:6611591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:30:59.917 plugin-container[216:6611591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:30:59.917 plugin-container[216:6611597] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:30:59.917 plugin-container[216:6611597] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715459949	Marionette	INFO	Listening on port 49206
+Read port: 49206
+WebDriver BiDi listening on ws://127.0.0.1:49193
+1666715460366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofilejY9Qcq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49193/devtools/browser/10934df8-af47-42c4-b6c4-cb475d1b42af
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666715463115	Marionette	INFO	Stopped listening on port 49206
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+Invalid port. Exiting...
+1666715562121	geckodriver	INFO	Listening on 127.0.0.1:49891
+1666715562503	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49892" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileWURiT8"
+2022-10-25 12:32:43.037 plugin-container[351:6613790] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:32:43.037 plugin-container[351:6613790] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:32:43.041 plugin-container[351:6613790] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:32:43.041 plugin-container[351:6613790] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:32:43.042 plugin-container[351:6613797] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:32:43.042 plugin-container[351:6613797] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715563044	Marionette	INFO	Marionette enabled
+1666715563080	Marionette	INFO	Listening on port 49905
+Read port: 49905
+WebDriver BiDi listening on ws://127.0.0.1:49892
+1666715563508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileWURiT8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49892/devtools/browser/5f0d6aab-8eb5-4765-afcb-d286df66cc83
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666715566219	Marionette	INFO	Stopped listening on port 49905
+Invalid port. Exiting...
+1666715604136	geckodriver	INFO	Listening on 127.0.0.1:50189
+1666715604523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50190" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofilexJWbSp"
+2022-10-25 12:33:25.037 plugin-container[438:6615465] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:33:25.038 plugin-container[438:6615465] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:33:25.041 plugin-container[438:6615465] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:33:25.041 plugin-container[438:6615465] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 12:33:25.041 plugin-container[438:6615490] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 12:33:25.041 plugin-container[438:6615490] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666715605043	Marionette	INFO	Marionette enabled
+1666715605078	Marionette	INFO	Listening on port 50203
+Read port: 50203
+WebDriver BiDi listening on ws://127.0.0.1:50190
+1666715605496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofilexJWbSp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50190/devtools/browser/eec207ed-db5e-4061-80a5-2f08915d15b2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666715608306	Marionette	INFO	Stopped listening on port 50203
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+Invalid port. Exiting...
+1666717852430	geckodriver	INFO	Listening on 127.0.0.1:64170
+1666717852782	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64171" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileJWv0jH"
+1666717853589	Marionette	INFO	Marionette enabled
+1666717853694	Marionette	INFO	Listening on port 64187
+Read port: 64187
+2022-10-25 13:10:53.974 plugin-container[2159:6650109] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 13:10:53.974 plugin-container[2159:6650109] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 13:10:53.980 plugin-container[2159:6650109] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 13:10:53.980 plugin-container[2159:6650109] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 13:10:53.981 plugin-container[2159:6650160] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 13:10:53.981 plugin-container[2159:6650160] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:64171
+1666717854199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileJWv0jH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64171/devtools/browser/0727769f-a311-4dde-b0b2-6fbb77e1c595
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666717857736	Marionette	INFO	Stopped listening on port 64187
+Invalid port. Exiting...
+Invalid port. Exiting...
+1666723312845	geckodriver	INFO	Listening on 127.0.0.1:61897
+1666723313153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61898" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileMOrFAa"
+1666723314343	Marionette	INFO	Marionette enabled
+2022-10-25 14:41:54.405 plugin-container[5967:6746572] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:41:54.406 plugin-container[5967:6746572] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666723314431	Marionette	INFO	Listening on port 61917
+Read port: 61917
+2022-10-25 14:41:54.761 plugin-container[5967:6746572] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:41:54.761 plugin-container[5967:6746572] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 14:41:54.763 plugin-container[5967:6746570] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:41:54.763 plugin-container[5967:6746570] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61898
+1666723315081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileMOrFAa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61898/devtools/browser/1a5d711f-397c-4bb3-8fcd-52598e2aaa1e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/federation/mf-dep-lib-initializer_dist_initializer_js-0169ca7c889ecd2dc9b7.js, line 1: Error: Initializer failed to initialize component for shop-welcome-back-toast-39970667. Usually this is caused by an exception in your component's client init function.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.bbystatic.com/fulfillment/add-to-cart-button/dist/client/client-1dcb0afd7f1322080d3900d2729f0715.mjs, line 1: ChunkLoadError: Loading chunk 204 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/add-to-cart-button/dist/client/204-1dcb0afd7f1322080d3900d2729f0715.mjs)
+1666723329905	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666723335132	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/shelf-display/dist/client/client-591274b5fe03a79a62237a15aabe9cbe.mjs, line 1: ChunkLoadError: Loading chunk 802 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/shelf-display/dist/client/802-591274b5fe03a79a62237a15aabe9cbe.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/sku-purchase-activity/dist/client/client-72350c8b40582d5be38b93545c3f5839.mjs, line 1: ChunkLoadError: Loading chunk 786 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/sku-purchase-activity/dist/client/786-72350c8b40582d5be38b93545c3f5839.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/brix/7.5.0/js/brixRemoteEntry.js, line 1: ChunkLoadError: Loading chunk 405 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/brix/7.5.0/js/405.js)
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+1666723338217	Marionette	INFO	Stopped listening on port 61917
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1666723447976	geckodriver	INFO	Listening on 127.0.0.1:63110
+1666723448307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63111" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileyVPH9R"
+2022-10-25 14:44:08.921 plugin-container[6034:6749977] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:44:08.928 plugin-container[6034:6749977] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 14:44:08.941 plugin-container[6034:6749977] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:44:08.941 plugin-container[6034:6749977] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 14:44:08.942 plugin-container[6034:6749990] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:44:08.942 plugin-container[6034:6749990] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666723449078	Marionette	INFO	Marionette enabled
+1666723449174	Marionette	INFO	Listening on port 63124
+Read port: 63124
+WebDriver BiDi listening on ws://127.0.0.1:63111
+1666723449787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileyVPH9R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63111/devtools/browser/fdb8275f-3b43-4b2d-88ed-9fd9ac0672cb
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zmeOo8ONk1YqWYD8DpPjl7c0n4Y1CeYWRiKSJrvfmvk.js line 2 > eval line 5780 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666723465531	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.bbystatic.com/pricing/gift-with-purchase/dist/client/client-37d28ad608a820b89f47391a6daa7d65.mjs, line 1: ChunkLoadError: Loading chunk 169 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/pricing/gift-with-purchase/dist/client/169-37d28ad608a820b89f47391a6daa7d65.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zmeOo8ONk1YqWYD8DpPjl7c0n4Y1CeYWRiKSJrvfmvk.js line 2 > eval line 4992 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/sku-purchase-activity/dist/client/client-72350c8b40582d5be38b93545c3f5839.mjs, line 1: ChunkLoadError: Loading chunk 786 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/sku-purchase-activity/dist/client/786-72350c8b40582d5be38b93545c3f5839.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1666723470947	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/analyticsInit-be4f0b779d368ad2a258f88ec936686d.js, line 4: ChunkLoadError: Loading chunk 27 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/chunks/customer-journal-2772a9727b38b1f9082d.js)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/analyticsInit-be4f0b779d368ad2a258f88ec936686d.js, line 4: ChunkLoadError: Loading chunk 27 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/chunks/customer-journal-2772a9727b38b1f9082d.js)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/analyticsInit-be4f0b779d368ad2a258f88ec936686d.js, line 4: ChunkLoadError: Loading chunk 100 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/chunks/vendors~adobeInit-a77b4e25b3f98630ce45.js)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/analyticsInit-be4f0b779d368ad2a258f88ec936686d.js, line 4: ChunkLoadError: Loading chunk 100 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/chunks/vendors~adobeInit-a77b4e25b3f98630ce45.js)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/warranty-selector/dist/client/client-fd4efbf325732b40eed4502a94133885.mjs, line 1: ChunkLoadError: Loading chunk 30 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/warranty-selector/dist/client/30-fd4efbf325732b40eed4502a94133885.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/566-0c33afe6d1f0ed4a5151a7baa501b32b.mjs, line 2: AbortError: Aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/client-lv-aa6bae95049f6d85bafcf1f81f4e64e1.mjs, line 1: TypeError: e is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zmeOo8ONk1YqWYD8DpPjl7c0n4Y1CeYWRiKSJrvfmvk.js line 2 > eval line 2289 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/site/jbl-flip-5-portable-bluetooth-speaker-black/6356535.p?skuId=6356535, line 15: TypeError: hiddenFrame.contentWindow is null
+JavaScript error: https://www.bestbuy.com/site/jbl-flip-5-portable-bluetooth-speaker-black/6356535.p?skuId=6356535, line 15: TypeError: hiddenFrame.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+1666723474610	Marionette	INFO	Stopped listening on port 63124
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1666723513013	geckodriver	INFO	Listening on 127.0.0.1:63900
+1666723513365	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63901" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileSZPM1D"
+1666723514060	Marionette	INFO	Marionette enabled
+2022-10-25 14:45:14.080 plugin-container[6092:6752698] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:45:14.081 plugin-container[6092:6752698] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 14:45:14.087 plugin-container[6092:6752698] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:45:14.087 plugin-container[6092:6752698] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 14:45:14.088 plugin-container[6092:6752696] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:45:14.088 plugin-container[6092:6752696] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666723514103	Marionette	INFO	Listening on port 63914
+Read port: 63914
+WebDriver BiDi listening on ws://127.0.0.1:63901
+1666723514769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileSZPM1D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63901/devtools/browser/d05156ff-d14c-4385-80aa-656eaed1be0b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666723530476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666723530530	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.bbystatic.com/pricing/gift-with-purchase/dist/client/client-37d28ad608a820b89f47391a6daa7d65.mjs, line 1: ChunkLoadError: Loading chunk 169 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/pricing/gift-with-purchase/dist/client/169-37d28ad608a820b89f47391a6daa7d65.mjs)
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Invalid port. Exiting...
+1666723807642	geckodriver	INFO	Listening on 127.0.0.1:50355
+1666723807981	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50356" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileg0JSda"
+1666723808714	Marionette	INFO	Marionette enabled
+2022-10-25 14:50:08.810 plugin-container[6492:6762828] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:50:08.810 plugin-container[6492:6762828] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666723808885	Marionette	INFO	Listening on port 50374
+Read port: 50374
+2022-10-25 14:50:09.107 plugin-container[6492:6762828] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:50:09.107 plugin-container[6492:6762828] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 14:50:09.118 plugin-container[6492:6762853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:50:09.118 plugin-container[6492:6762853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:50356
+1666723809616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileg0JSda/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50356/devtools/browser/18d17152-037f-41b5-b70b-dcc95f57de8a
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zmeOo8ONk1YqWYD8DpPjl7c0n4Y1CeYWRiKSJrvfmvk.js line 2 > eval line 6146 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/client-lv-aa6bae95049f6d85bafcf1f81f4e64e1.mjs, line 1: TypeError: e is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666723834624	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://assets.bbystatic.com/node-cusoweb/shop/save-for-later/dist/client/client-4a667e5eb2de336c4cdd8f76a94d2142.mjs, line 1: ChunkLoadError: Loading chunk 276 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/node-cusoweb/shop/save-for-later/dist/client/276-4a667e5eb2de336c4cdd8f76a94d2142.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/compare-checkbox/dist/client/client-87fb5a791173bc053d617bafe5f52b3d.mjs, line 1: ChunkLoadError: Loading chunk 505 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/compare-checkbox/dist/client/505-87fb5a791173bc053d617bafe5f52b3d.mjs)
+JavaScript error: https://assets.bbystatic.com/pricing/activated-pricing-options/dist/client/client-b41f6cd2d08aecefda86fdc2f6879d58.mjs, line 1: ChunkLoadError: Loading chunk 675 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/pricing/activated-pricing-options/dist/client/675-b41f6cd2d08aecefda86fdc2f6879d58.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/566-0c33afe6d1f0ed4a5151a7baa501b32b.mjs, line 2: AbortError: Aborted
+JavaScript error: https://assets.bbystatic.com/pricing/gift-with-purchase/dist/client/client-37d28ad608a820b89f47391a6daa7d65.mjs, line 1: ChunkLoadError: Loading chunk 169 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/pricing/gift-with-purchase/dist/client/169-37d28ad608a820b89f47391a6daa7d65.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/brix/7.5.0/js/brix.js, line 1: ChunkLoadError: Loading chunk 405 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/brix/7.5.0/405.c8069c46b9b1f0911aca.js)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zmeOo8ONk1YqWYD8DpPjl7c0n4Y1CeYWRiKSJrvfmvk.js line 2 > eval line 6176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/23vp7c/ULi/sGR/ML-6fA/5EYmwNcNacpE/fRFdDCcC/MHsGT/RtWLlAB, line 1: unreachable code after return statement
+1666723838911	Marionette	INFO	Stopped listening on port 50374
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Invalid port. Exiting...
+Invalid port. Exiting...
+1666723947954	geckodriver	INFO	Listening on 127.0.0.1:51785
+1666723948320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51786" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileXLFPBu"
+1666723949057	Marionette	INFO	Marionette enabled
+2022-10-25 14:52:29.090 plugin-container[6728:6768098] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:52:29.091 plugin-container[6728:6768098] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666723949104	Marionette	INFO	Listening on port 51801
+2022-10-25 14:52:29.104 plugin-container[6728:6768098] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:52:29.104 plugin-container[6728:6768098] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-25 14:52:29.106 plugin-container[6728:6768095] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-25 14:52:29.106 plugin-container[6728:6768095] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51801
+WebDriver BiDi listening on ws://127.0.0.1:51786
+1666723949753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ps/4p7362j559572wtn3rk0td400000gn/T/rust_mozprofileXLFPBu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51786/devtools/browser/157e19e1-0238-4ed4-967d-33cd8335441c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666723953270	Marionette	INFO	Stopped listening on port 51801
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+Invalid port. Exiting...
+Invalid port. Exiting...
