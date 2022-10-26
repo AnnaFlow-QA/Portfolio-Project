@@ -61,9 +61,9 @@ try:
         wait.until(EC.element_to_be_clickable((By.XPATH, "//span[text()='Checkout']")))
         # # Click on Checkout that verify or is placed !
         wait.until(EC.element_to_be_clickable((By.XPATH, "//span[text()='Checkout']"))).click()
-        print("All Elements is present and 'Checkout' button is OK")
+        print("All Elements are present and 'Checkout' button is OK")
 except NoSuchElementException:
-        print("Checkout is impossible!")
+        print("Checkout is blocked")
 
 
 
